@@ -10,3 +10,8 @@
 body{
     background-image: linear-gradient(to bottom, #8bcdcd, #8dd5c5, #99dcb8, #b0e1a7, #cee397);
 }
+
+.cardFooterColor{
+    background-color: #5f27cd;
+    color: white;
+}
